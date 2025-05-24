@@ -1,0 +1,8 @@
+# ルートディレクトリ内の.venvディレクトリを無視する
+.venv/
+# pythonの依存関係記述用ファイルを無視する
+requirements.txt
+# Herokuの設定ファイルを無視する
+runtime.txt
+# 機密情報を除外
+info.json
